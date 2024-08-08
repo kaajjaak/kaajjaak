@@ -20,9 +20,9 @@
   <img src="https://count.getloli.com/get/@:kaajjaak?theme=rule34" alt="Profile views" />
 </p>
 
-## 🌸 About Me
+<img align="right" width="300" src="https://i.pinimg.com/originals/e9/af/61/e9af61909a464b2f4866a1037e34b35e.gif" />
 
-<img align="right" width="300" src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" />
+## 🌸 About Me
 
 I'm a passionate software engineer with a love for machine learning and a soft spot for snails! 🐌
 
@@ -51,7 +51,7 @@ I'm a passionate software engineer with a love for machine learning and a soft s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaajjaak&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&bg_color=20,ff69b4,ff1493" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaajjaak&show_icons=true&theme=radical" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaajjaak&theme=radical&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4" width="400" />
 </p>
 
@@ -70,10 +70,12 @@ I'm a passionate software engineer with a love for machine learning and a soft s
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
 </p>
 
-## 🐌 Snail Wisdom
+## 🌸 Sakura Wisdom
 
 <p align="center">
-  <i>"Slow and steady wins the race in coding!"</i>
+  <img src="https://i.imgur.com/jz7xmAf.gif" width="400" alt="Sakura Tree" />
+  <br>
+  <i>"Like sakura blossoms, code blooms with patience and care."</i>
 </p>
 
 <p align="center">
