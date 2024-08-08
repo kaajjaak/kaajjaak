@@ -20,23 +20,31 @@
   <img src="https://count.getloli.com/get/@:kaajjaak?theme=rule34" alt="Profile views" />
 </p>
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/e9/af/61/e9af61909a464b2f4866a1037e34b35e.gif" />
-
 <h2 align="center">🌸 About Me</h2>
 
-I'm a passionate software engineer with a love for machine learning and a soft spot for snails! 🐌
+<p align="center">
+  <img align="right" width="300" src="https://i.pinimg.com/originals/e9/af/61/e9af61909a464b2f4866a1037e34b35e.gif" />
+</p>
 
-- 🏢 Currently a Software Engineering Intern at Google in Warsaw, Poland
-- 🌱 Always learning and exploring new technologies
-- 💻 Enthusiast of ParrotOS for pentesting and development
-- 🧠 Researching executive functioning and cognitive processes
+<p align="center">
+  I'm a passionate software engineer with a love for machine learning and a soft spot for snails! 🐌
+</p>
+
+<p align="center">
+  - 🏢 Currently a Software Engineering Intern at Google in Warsaw, Poland<br>
+  - 🌱 Always learning and exploring new technologies<br>
+  - 💻 Enthusiast of ParrotOS for pentesting and development<br>
+  - 🧠 Researching executive functioning and cognitive processes
+</p>
 
 <h2 align="center">🚀 What I'm Working On</h2>
 
-- 📚 Learning about learning: Delving into cognitive science and educational psychology
-- 🧠 Researching executive functioning: Understanding cognitive processes and their applications
-- 🤖 Exploring cutting-edge machine learning algorithms: Pushing the boundaries of AI
-- 🔒 Enhancing my penetration testing skills with ParrotOS: Improving cybersecurity expertise
+<p align="center">
+  - 📚 Learning about learning: Delving into cognitive science and educational psychology<br>
+  - 🧠 Researching executive functioning: Understanding cognitive processes and their applications<br>
+  - 🤖 Exploring cutting-edge machine learning algorithms: Pushing the boundaries of AI<br>
+  - 🔒 Enhancing my penetration testing skills with ParrotOS: Improving cybersecurity expertise
+</p>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
@@ -59,12 +67,18 @@ I'm a passionate software engineer with a love for machine learning and a soft s
   <img src="https://github-profile-trophy.vercel.app/?username=kaajjaak&theme=radical&row=1&column=6&margin-w=15" />
 </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaajjaak&theme=aura" />
+</p>
+
 <h2 align="center">🌟 Fun Facts</h2>
 
-- 🐌 I'm a huge snail enthusiast!
-- 💡 I love solving complex algorithmic problems
-- 📚 I love learning new things
-- 🌈 Always on the lookout for new programming languages to learn
+<p align="center">
+  - 🐌 I'm a huge snail enthusiast!<br>
+  - 💡 I love solving complex algorithmic problems<br>
+  - 📚 I love learning new things<br>
+  - 🌈 Always on the lookout for new programming languages to learn
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
