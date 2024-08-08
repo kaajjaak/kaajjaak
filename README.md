@@ -67,7 +67,7 @@ I'm a passionate software engineer with a love for machine learning and a soft s
 - 🌈 Always on the lookout for new programming languages to learn
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+  <img src="./spring-floral.gif" width="200" />
 </p>
 
 ## 🌸 Philosophical Musing
