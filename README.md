@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2daabffc-4f04-41aa-9b81-3734c26aa701)<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Akina&fontSize=90&fontColor=ffffff&animation=fadeIn" />
 </p>
 
@@ -67,15 +67,17 @@ I'm a passionate software engineer with a love for machine learning and a soft s
 - 🌈 Always on the lookout for new programming languages to learn
 
 <p align="center">
-  <img src="https://tenor.com/nl/view/spring-floral-animation-petal-cherry-blossom-gif-16969870" width="200" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
 </p>
 
-## 🌸 Sakura Wisdom
+## 🌸 Philosophical Musing
 
 <p align="center">
-  <img src="https://i.imgur.com/jz7xmAf.gif" width="400" alt="Sakura Tree" />
+  <img src="https://i.imgur.com/tGHrHRl.gif" width="400" alt="Sakura Tree" />
   <br>
-  <i>"Like sakura blossoms, code blooms with patience and care."</i>
+  <i>"My mission is to kill time, and time's to kill me in its turn. How comfortable one is among murderers."</i>
+  <br>
+  - Emil Cioran
 </p>
 
 <p align="center">
