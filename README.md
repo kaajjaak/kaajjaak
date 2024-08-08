@@ -1,8 +1,28 @@
-# Hi there, I'm Akina! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Akina&fontSize=90&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=kaajjaak&color=ff69b4)
+<h1 align="center">Hi there, I'm Akina! 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/kaajjaak">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=ff69b4" alt="GitHub"/>
+  </a>
+  <a href="https://akina.pink">
+    <img src="https://img.shields.io/badge/-Website-ff69b4?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://discord.com/users/princessakina">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=ff69b4" alt="Discord: princessakina"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@:kaajjaak?theme=rule34" alt="Profile views" />
+</p>
 
 ## 🌸 About Me
+
+<img align="right" width="300" src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" />
 
 I'm a passionate software engineer with a love for machine learning and a soft spot for snails! 🐌
 
@@ -20,15 +40,24 @@ I'm a passionate software engineer with a love for machine learning and a soft s
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat-square&logoColor=white)
-![ParrotOS](https://img.shields.io/badge/-ParrotOS-5CB85C?style=flat-square&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&color=ff69b4" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&color=ff69b4" />
+  <img src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white&color=ff69b4" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat-square&logoColor=white&color=ff69b4" />
+  <img src="https://img.shields.io/badge/-ParrotOS-5CB85C?style=flat-square&logoColor=white&color=ff69b4" />
+</p>
 
 ## 📊 GitHub Stats
 
-![Akina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaajjaak&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaajjaak&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&bg_color=20,ff69b4,ff1493" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaajjaak&theme=radical&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kaajjaak&theme=radical&row=1&column=6&margin-w=15" />
+</p>
 
 ## 🌟 Fun Facts
 
@@ -37,18 +66,20 @@ I'm a passionate software engineer with a love for machine learning and a soft s
 - 🎤 I enjoy attending tech conferences and meetups
 - 🌈 Always on the lookout for new programming languages to learn
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+</p>
+
 ## 🐌 Snail Wisdom
 
-> Slow and steady wins the race in coding!
-
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kaajjaak)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
----
+<p align="center">
+  <i>"Slow and steady wins the race in coding!"</i>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaajjaak&theme=radical" alt="kaajjaak's streak stats"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
 </p>
