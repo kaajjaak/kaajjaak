@@ -63,7 +63,7 @@ I'm a passionate software engineer with a love for machine learning and a soft s
 
 - 🐌 I'm a huge snail enthusiast!
 - 💡 I love solving complex algorithmic problems
-- 🎤 I enjoy attending tech conferences and meetups
+- 📚 I love learning new things
 - 🌈 Always on the lookout for new programming languages to learn
 
 <p align="center">
@@ -73,7 +73,7 @@ I'm a passionate software engineer with a love for machine learning and a soft s
 ## 🌸 Philosophical Musing
 
 <p align="center">
-  <img src="./spring-floral.gif" width="400" alt="Cute Tea Animation" />
+  <img src="./spring-floral.gif" width="400" alt="Cherry Blossom Animation" />
   <br>
   <i>"My mission is to kill time, and time's to kill me in its turn. How comfortable one is among murderers."</i>
   <br>
