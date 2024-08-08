@@ -73,7 +73,7 @@ I'm a passionate software engineer with a love for machine learning and a soft s
 ## 🌸 Philosophical Musing
 
 <p align="center">
-  <img src="https://i.imgur.com/tGHrHRl.gif" width="400" alt="Sakura Tree" />
+  <img src="https://media.tenor.com/oCSAqRUqn-4AAAAd/spring-floral.gif" width="400" alt="Cherry Blossom Tree" />
   <br>
   <i>"My mission is to kill time, and time's to kill me in its turn. How comfortable one is among murderers."</i>
   <br>
