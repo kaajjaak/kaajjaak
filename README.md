@@ -67,13 +67,13 @@ I'm a passionate software engineer with a love for machine learning and a soft s
 - 🌈 Always on the lookout for new programming languages to learn
 
 <p align="center">
-  <img src="./spring-floral.gif" width="200" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
 </p>
 
 ## 🌸 Philosophical Musing
 
 <p align="center">
-  <img src="https://github.com/mayhemantt/mayhemantt/blob/master/img/tea.svg" width="400" alt="Cute Tea Animation" />
+  <img src="./spring-floral.gif" width="400" alt="Cute Tea Animation" />
   <br>
   <i>"My mission is to kill time, and time's to kill me in its turn. How comfortable one is among murderers."</i>
   <br>
