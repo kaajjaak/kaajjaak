@@ -31,19 +31,19 @@
 </p>
 
 <p align="center">
-  - 🏢 Currently a Software Engineering Intern at Google in Warsaw, Poland<br>
-  - 🌱 Always learning and exploring new technologies<br>
-  - 💻 Enthusiast of ParrotOS for pentesting and development<br>
-  - 🧠 Researching executive functioning and cognitive processes
+  🏢 Currently a Software Engineering Intern at Google in Warsaw, Poland<br>
+  🌱 Always learning and exploring new technologies<br>
+  💻 Enthusiast of ParrotOS for pentesting and development<br>
+  🧠 Researching executive functioning and cognitive processes
 </p>
 
 <h2 align="center">🚀 What I'm Working On</h2>
 
 <p align="center">
-  - 📚 Learning about learning: Delving into cognitive science and educational psychology<br>
-  - 🧠 Researching executive functioning: Understanding cognitive processes and their applications<br>
-  - 🤖 Exploring cutting-edge machine learning algorithms: Pushing the boundaries of AI<br>
-  - 🔒 Enhancing my penetration testing skills with ParrotOS: Improving cybersecurity expertise
+  📚 Learning about learning: Delving into cognitive science and educational psychology<br>
+  🧠 Researching executive functioning: Understanding cognitive processes and their applications<br>
+  🤖 Exploring cutting-edge machine learning algorithms: Pushing the boundaries of AI<br>
+  🔒 Enhancing my penetration testing skills with ParrotOS: Improving cybersecurity expertise
 </p>
 
 <h2 align="center">🛠 Tech Stack</h2>
@@ -74,10 +74,10 @@
 <h2 align="center">🌟 Fun Facts</h2>
 
 <p align="center">
-  - 🐌 I'm a huge snail enthusiast!<br>
-  - 💡 I love solving complex algorithmic problems<br>
-  - 📚 I love learning new things<br>
-  - 🌈 Always on the lookout for new programming languages to learn
+  🐌 I'm a huge snail enthusiast!<br>
+  💡 I love solving complex algorithmic problems<br>
+  📚 I love learning new things<br>
+  🌈 Always on the lookout for new technologies to learn
 </p>
 
 <p align="center">
