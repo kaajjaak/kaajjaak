@@ -24,7 +24,7 @@
 
 <p align="center">
   <img align="right" width="300" src="https://i.pinimg.com/originals/e9/af/61/e9af61909a464b2f4866a1037e34b35e.gif" />
-</p>
+</p><br>
 
 <p align="center">
   I'm a passionate software engineer with a love for machine learning and a soft spot for snails! 🐌
