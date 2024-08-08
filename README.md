@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/2daabffc-4f04-41aa-9b81-3734c26aa701)<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Akina&fontSize=90&fontColor=ffffff&animation=fadeIn" />
 </p>
 
@@ -67,7 +67,7 @@ I'm a passionate software engineer with a love for machine learning and a soft s
 - 🌈 Always on the lookout for new programming languages to learn
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+  <img src="https://tenor.com/nl/view/spring-floral-animation-petal-cherry-blossom-gif-16969870" width="200" />
 </p>
 
 ## 🌸 Sakura Wisdom
