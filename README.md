@@ -22,9 +22,9 @@
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e9/af/61/e9af61909a464b2f4866a1037e34b35e.gif" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/About%20Me-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="About Me" />
-</p>
+<h2 align="center">
+  <span style="color: #ff69b4; font-size: 28px; font-weight: bold;">🌸 About Me</span>
+</h2>
 
 I'm a passionate software engineer with a love for machine learning and a soft spot for snails! 🐌
 
@@ -33,18 +33,18 @@ I'm a passionate software engineer with a love for machine learning and a soft s
 - 💻 Enthusiast of ParrotOS for pentesting and development
 - 🧠 Researching executive functioning and cognitive processes
 
-<p align="center">
-  <img src="https://img.shields.io/badge/What%20I'm%20Working%20On-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="What I'm Working On" />
-</p>
+<h2 align="center">
+  <span style="color: #ff69b4; font-size: 28px; font-weight: bold;">🚀 What I'm Working On</span>
+</h2>
 
 - 📚 Learning about learning: Delving into cognitive science and educational psychology
 - 🧠 Researching executive functioning: Understanding cognitive processes and their applications
 - 🤖 Exploring cutting-edge machine learning algorithms: Pushing the boundaries of AI
 - 🔒 Enhancing my penetration testing skills with ParrotOS: Improving cybersecurity expertise
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Tech Stack" />
-</p>
+<h2 align="center">
+  <span style="color: #ff69b4; font-size: 28px; font-weight: bold;">🛠 Tech Stack</span>
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&color=ff69b4" />
@@ -54,9 +54,9 @@ I'm a passionate software engineer with a love for machine learning and a soft s
   <img src="https://img.shields.io/badge/-ParrotOS-5CB85C?style=flat-square&logoColor=white&color=ff69b4" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" />
-</p>
+<h2 align="center">
+  <span style="color: #ff69b4; font-size: 28px; font-weight: bold;">📊 GitHub Stats</span>
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaajjaak&show_icons=true&theme=radical" width="400" />
@@ -67,9 +67,9 @@ I'm a passionate software engineer with a love for machine learning and a soft s
   <img src="https://github-profile-trophy.vercel.app/?username=kaajjaak&theme=radical&row=1&column=6&margin-w=15" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Fun%20Facts-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Fun Facts" />
-</p>
+<h2 align="center">
+  <span style="color: #ff69b4; font-size: 28px; font-weight: bold;">🌟 Fun Facts</span>
+</h2>
 
 - 🐌 I'm a huge snail enthusiast!
 - 💡 I love solving complex algorithmic problems
@@ -80,9 +80,9 @@ I'm a passionate software engineer with a love for machine learning and a soft s
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Philosophical%20Musing-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Philosophical Musing" />
-</p>
+<h2 align="center">
+  <span style="color: #ff69b4; font-size: 28px; font-weight: bold;">🌸 Philosophical Musing</span>
+</h2>
 
 <p align="center">
   <img src="./spring-floral.gif" width="400" alt="Cherry Blossom Animation" />
