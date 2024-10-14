@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  🏢 Currently a Software Engineering Intern at Google in Warsaw, Poland<br>
+  🏢 Ex Software Engineering Intern at Google in Warsaw, Poland<br>
   🌱 Always learning and exploring new technologies<br>
   💻 Enthusiast of ParrotOS for pentesting and development<br>
   🧠 Researching executive functioning and cognitive processes
